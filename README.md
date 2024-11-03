@@ -1,0 +1,1 @@
+Aloita peli valitsemalla scenes valikosta Menu. Pelin tarkoitus on hyppiä esteiden yli. Jokaisesta hypystä saa pisteen. Peli päättyy kun osut esteeseen ja voit sen jälkeen valita haluatko pelata uudestaan vai palata main menuun. 
